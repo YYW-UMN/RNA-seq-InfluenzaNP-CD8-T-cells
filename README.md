@@ -10,6 +10,7 @@
 - Volcano plot of DEGs
 - Bar plot of GO terms
 - Heatmap of key genes 
+- Heatmap of metabolic genes 
 
 #### Analysis:
 - MIS11602_analysis.ipynb
