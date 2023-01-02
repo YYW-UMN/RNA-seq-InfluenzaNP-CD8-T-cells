@@ -8,9 +8,10 @@
 
 #### Figures: 
 - Volcano plot of DEGs
-- Bar plot of GO terms
+- Dot plot of GO terms and Fold Enrichment Scores
 - Heatmap of key genes 
 - Heatmap of metabolic genes 
+- Multiple Sequence Alignment visualization with annotations 
 
 #### Analysis:
 - MIS11602_analysis.ipynb
